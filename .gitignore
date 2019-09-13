@@ -166,3 +166,4 @@ dmypy.json
 .pyre/
 
 # End of https://www.gitignore.io/api/code,macos,python
+/pycondemo/settings/local.py
