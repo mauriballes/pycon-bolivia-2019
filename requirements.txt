@@ -5,6 +5,7 @@ cryptography==2.7
 Django==2.2.5
 django-up==0.2.1
 fabric2==2.5.0
+gunicorn==19.9.0
 invoke==1.3.0
 paramiko==2.6.0
 pycparser==2.19
